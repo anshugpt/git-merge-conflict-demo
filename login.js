@@ -6,5 +6,5 @@ const validatedLogin = () => {
 // optimized login logic line 2
 
 const validateLogin = () => {
-  console.log("optimized login check");
+  console.log("optimized login check test");
 };
