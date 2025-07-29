@@ -1,5 +1,5 @@
 // 2FA logic added
 
 const validatedLogin = () => {
-  console.log("basic login check");
+  console.log("basic login check test");
 };
